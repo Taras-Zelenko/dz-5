@@ -51,7 +51,6 @@ public class Main {
         System.out.println("6. Виводить результат порівняння сум (true, якщо Перша сума більша).");
         System.out.println("shortPlusOne = " + shortPlusOne);
         System.out.println("shortMinusTwo = " + shortMinusTwo);
-        boolean boolVal02 = shortPlusOne > shortMinusTwo;
         if ( shortPlusOne > shortMinusTwo)
             System.out.println("true, бо Перша сума більша");
         else
